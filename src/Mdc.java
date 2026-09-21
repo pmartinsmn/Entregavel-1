@@ -1,4 +1,3 @@
-package java;
 public class Mdc {
     public static void main(String[] args) {
         int a = 48, b = 18;
